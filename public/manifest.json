@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "portfolio",
+  "name": "Art portfolio including sculpture, drawing, and painting.",
   "icons": [
     {
       "src": "favicon.ico",
